@@ -1,0 +1,25 @@
+{
+    "name": "cassaba",
+    "description": "cassaba",
+    "keywords": ["vmess vless trojan shadowsocks socks"],
+    "env": {
+        "AA": {
+            "description": "初阶用户",
+            "value": "如出现错误"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义",
+            "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS",
+            "value": "chacha20-ietf-poly1305"
+        }
+    },
+    "repository": "",
+    "stack": "container"
+}
